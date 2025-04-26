@@ -1,0 +1,38 @@
+---
+title: "Aislamiento y regeneración de plantas a partir de protoplastos de fresa, variedad “San Andrea”"
+author: "arista"
+output: html_document
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+## Descripción del problema
+
+"La fresa Fragaria x ananassa es una fruta de gran valor económico debido a su alto consumo y demanda en el mercado global. La multiplicación rápida de plantas es fundamental para mejorar la producción y abastecer la demanda. Sin embargo, los métodos tradicionales de propagación vegetativa tienen limitaciones, como el riesgo de enfermedades y la baja variabilidad genética. El uso de protoplastos, células vegetales desnudas sin pared celular, permite una alternativa para la regeneración de plantas, superando estos obstáculos y posibilitando la mejora genética y la obtención de nuevas variedades. Este estudio se enfoca en el aislamiento y regeneración de protoplastos de fresa de la variedad “San Andrea”, con el objetivo de desarrollar técnicas de regeneración eficientes para una propagación más rápida y controlada"
+
+## Objetivo General
+
+"Establecer un protocolo eficiente para el aislamiento y regeneración de plantas de fresa, variedad San Andrea, a partir de protoplastos, utilizando técnicas de organogénesis directa e indirecta"
+
+## Objetivos Específicos
+
+"1. Multiplicar plantas de fresa mediante organogénesis directa e indirecta, evaluando los factores que afectan la regeneración in vitro de las plantas a partir de los protoplastos"
+"2. Aislar protoplastos de la variedad San Andrea mediante la disgregación enzimática de tejidos vegetales seleccionados, optimizando las condiciones para obtener una alta tasa de protoplastos viable"
+"3. Regenerar plantas completas a partir de los protoplastos aislados, evaluando la formación de callos y la posterior inducción de brotes y raíces en medios de cultivo específicos"
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
