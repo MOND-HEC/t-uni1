@@ -1,6 +1,6 @@
 ---
 title: "Aislamiento y regeneración de plantas a partir de protoplastos de fresa, variedad “San Andrea”"
-author: "Hecto Arista"
+author: "Héctor Arista"
 format:
   html:
    toc: true
